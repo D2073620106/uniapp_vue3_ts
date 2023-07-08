@@ -12,7 +12,7 @@ pinia
 ```angular2html
 vue和uniapp相关的包不需要手动导入
 ```
-### 2、项目参考
+### 3、项目参考
 ```angular2html
 https://github.com/ttk-cli/uni-vue3-vite-ts-pinia
 ```
